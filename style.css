@@ -147,6 +147,10 @@ body > main > section.camps > p:nth-child(2) {
     padding-bottom: 30px;
 }
 
+body > main > section.camps > p:nth-child(3){
+    text-align: center;
+}
+
 .camps img {
     width: 400px;
     height: 250px;
