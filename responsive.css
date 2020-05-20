@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+    body{
+        display: block;
+    }
+
+    .navigation p span {
+        color: yellow;
+    }
+}
